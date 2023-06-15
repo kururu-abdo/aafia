@@ -1,0 +1,183 @@
+{
+
+    "app_name":"Aafia" ,
+    "field_required":"This field is required" ,
+    "term_agreement_required":"You must Agree with our terms and policies",
+ 
+
+    "welcome_to_afia":"Welcome to the Afia app",
+    "we_offer":"To access all the features of our app, please sign in or create an account. Your account will allow you to track your medication deliveries and more."
+    ,
+    "getting_started":"Getting Started" 
+
+    ,
+    "create_new_account":"Create a new account" 
+
+    ,
+    "login_txt":"Sign in" ,
+    "sign_up_txt":"Sign up" ,
+    "agree_with":"I Agree To" ,
+    "terms_and_conditions":"The Terms And Conditions",
+    "sign_up_button":"Create a new account ",
+    "name":"Name",
+
+    "birth_date":"BithDate",
+    "address":"Location",
+  "blood_type":"Blood Type",
+  "password":"Password",
+  "password_confirm":"Confirm Password",
+
+  "phone":"Phone Number",
+  "login_button":"Sign in",
+  "forgot_password":"Forgot your password ?" ,
+"camera":"Camera",
+"gallery":"Gallery",
+
+
+  "otp":"Verification Code",
+  "insert_otp":"Enter Verification Code",
+  "welcome_afia_otp":"Welcome to the Afia App! We have sent a verification code to your phone number. Please enter the code below to verify your account and access all features of our app.",
+  "confirm_otp":"Confirm" ,
+"didnt_receive_code":"I didn't receive the code",
+"press_here":"resend code",
+"code_expire":"code will expire after",
+"pass_otp":"Your account has been verified!",
+"services":"Services",
+"medicine_request":"Medicine",
+"ambulance_request":"An ambulance",
+"blood_transfer_service":"Blood Transfusion" ,
+
+
+"home":"Home",
+"my_requests":"My Requests",
+"more":"More" ,
+
+
+"medical_requests":"Medication requests" ,
+"blood_trasfers":"Blood Transfusion",
+
+"all":"All",
+"processing":"Underway",
+"completed_all":"Completed",
+"cancelled_all": "Canceled",
+"completed":"Completed",
+"cacelled":"Canceled" ,
+"search_area":"search area",
+"address_drug":"Address",
+"prescription":"prescription",
+"insurrance":"Insurance image",
+"blood_receivs":"Blood requests",
+"blood_dontats":"Blood donation requests",
+"edit_btn":"Edit",
+"delete_btn":"Delete",
+"hospital":"Hospital",
+
+"delete_blood_request_title":"Delete the blood transfusion request",
+"delete_medical_request_title":"Delete the medical request",
+"delete_blood_request_message":"Are you sure you want to delete the request? The request will be permanently deleted",
+"cancel":"Cancel",
+"no_data":"No Date" ,
+"no_notifications":"There are no notifications yet",
+"notifications":"Notifications",
+"add_new_request_btn":"Add The Request",
+"blood_transfer_services":"Blood Transfusion" ,
+"donat_blood":"Donate Blood",
+"recev_blood":"Receive Blood",
+"donat_blood_data":"Blood request info",
+"call":"Call Me" ,
+"blood_type_item":"Blood Group Type",
+"blood_tranfusion_request":"Blood Transfusion Request",
+"bottle_count":"Number Of Bottles",
+"donat_hospital":"Hospital Name",
+"transfer_date":"Date",
+"request_status":"Status",
+"emergent":"Emergency",
+"no-emergent":"Non-Emergency",
+"add_btn":"Add The Request" ,
+"operation_details":"Operation Details",
+"request_added":"Your request was added successfully",
+"blood_recev_data":"Blood request info",
+"search_for_ambulance":"Search for an ambulance",
+"select_location":"Search Area" ,
+"select_hospital":"Hospital Name",
+"search_btn":"Search",
+"avilable_ambulance":"Ambulances",
+"add_prescription_image":"Upload a image of the prescription",
+"drug_name":"Medicine Name",
+"select_search_area":"Search Area",
+"select_current_location":"Current Location",
+"you_have_insurance":"You Have Health Insurance",
+"add_request":"Add Request",
+"insurane_company":"Insurance company name",
+"add_insurance_image":"Upload a image of the insurance",
+"drug_order_succss":"Your request was added successfully",
+"thanks_for_order":"Thank you. The request has been added. Your request will be processed and answered within a few minutes",
+"go_home_btn":"Home page",
+"your_order_confirmed":"Your medication order is available",
+"wait_for_delivery":"This is the required drug price and the delivery price For the medicine, it will be delivered once the request is approved",
+"prescription_title":"prescription",
+"delivery_price":"Delivery price",
+"requred_drug_price":"The required drug price",
+"total":"Total",
+"pound":"Pound",
+"confirm_order":"Confirm",
+"cancel_order":"Cancel",
+"confirmed":"Confirmed Successfully",
+"will_deliver":"The order will be delivered directly within an hour Thanks",
+
+
+"edit_my_data":"Edit My Data",
+"change_password":"Change Password",
+"call_support":"Contact us",
+"terms":"Terms and Conditions",
+"privacy":"Privacy Policy" ,
+"rate_app":"Application Rating",
+"about":"About The App",
+"logout":"Logout" ,
+"want_logout":"Do you want to log out?",
+
+"change_my_data":"Edit My Data",
+"update_my_data_btn":"Save Edits",
+"old_password":"Old Password",
+"new_password":"New Password",
+"save_btn":"Save",
+"about_app_title":"About The App",
+"about_offers":"In the Afia application, we offer you a set of services that make it easier for you, save you time and effort, and make you contribute to your community",
+"blood_service":"Blood Transfusion Service: Allows users to request an emergency blood transfusion and alert nearby users",
+"drug_service":"Medicine Ordering & Delivery: Allows users to order medicines and have them delivered to their homes",
+"ambulance_service":"Ambulance Service: Allows users to request an ambulance service in emergency situations and alert nearby ambulance services",
+
+"we_happy":"We're very glad to hear from you. Please use whatever method works best for you",
+"terms_txt":"At Afia App we take the privacy of our users very seriously. We understand that when it comes to personal medical information, users need to feel confident that their information is being handled with the utmost care and security. We collect personal information from Users in order to provide our medical services, such as ordering and delivering medication, blood transfusion service, and ambulance service. This information may include personal details such as name, address, contact information and medical history. All data we collect is handled in accordance with applicable laws and regulations. We will not disclose any personal information to third parties except as necessary to provide our services or as required by law. We also take appropriate security measures to protect against unauthorized access to, unauthorized modification, disclosure or destruction of data. This includes internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to protect against unauthorized access to systems where we store personal data. terms of use: By using our application, you agree to the terms and conditions described in this document. Our medical services are intended for individuals 18 years of age or older, who can enter into a legally binding agreement. Our application provides medical services such as ordering and delivering medicines, blood transfusion service, and ambulance service. We strive to provide accurate and current information, but we make no representations or warranties about the completeness, reliability or suitability of the information provided. We will not be liable for any damages, including without limitation, indirect or consequential damages, or any damages of any kind arising out of the use of, or in connection with such use or loss of use of the Service. By using our app, you also agree to receive communications from us, including promotional materials, updates, and notifications about new services or features. You can opt out of these communications at any time. We reserve the right to modify this policy at any time. If we make any significant changes, we will notify users by posting a notice on our app or sending an email to registered users. ", 
+
+
+"call_us":"Contact Us" ,
+
+
+
+"passord_not_mathced":"Two Password Not Matched",
+"please_select_location":"Please Select Location",
+"please_upload_prescription_image":"please upload prescription image" ,
+"please_upload_your_image":"please upload Your image" ,
+"please_upload_insurance_image":"please upload Your Insurrance document" ,
+
+"invalid_phone":"Invalid Phone Number, make sure your phone start with 0",
+"plase_select_hospital":"Please Select a Hospital",
+"please_select_blood_type":"Please Select Your Blood Type",
+"updated_successfully":"Data Updated Successfully"
+
+,
+"order_send":"Order Sent Successfully" ,
+"bottle":"Bottle"
+,
+ "change_lang":"Change Language"   ,
+ "enter_phone_number":"Enter Phone Number" ,
+ "continue":"Continue" ,
+ "enter_your_phone_number":"Enter Your Phone Number",
+ "for_password_recovery":"To Recover your account  , enter a phone number , you will receive a sms contains a verification code "
+ ,
+ "welcome":"Welcome"  ,
+ "whatsapp":"Whatsapp" 
+
+ 
+}
